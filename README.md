@@ -2,7 +2,7 @@
 ## Obliczanie całki oznaczonej metodą złożoną kwadratury trapezów
 
 
-Implementację numerycznego obliczania całki oznaczonej za pomocą złożonej kwadratury trapezów (ZKT) w środowisku Octave.
+Implementacja numerycznego obliczania całki oznaczonej za pomocą złożonej kwadratury trapezów (ZKT) w środowisku Octave.
 Funkcja podcałkowa:
 f(x) = x / (x² + 1)
 Przedział całkowania: [0, 1]
