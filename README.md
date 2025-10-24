@@ -3,9 +3,9 @@
 
 
 Implementacja numerycznego obliczania całki oznaczonej za pomocą złożonej kwadratury trapezów (ZKT) w środowisku Octave.
-Funkcja podcałkowa:
-f(x) = x / (x² + 1)
-Przedział całkowania: [0, 1]
+Funkcja podcałkowa:\
+f(x) = x / (x² + 1)\
+Przedział całkowania: [0, 1]\
 Wartość dokładna (analityczna): 0.34657359027997
 
 ## Pliki w repozytorium
