@@ -1,0 +1,14 @@
+>> [kwadratura,blad]=ZKT(@funkcja,0,1,12)
+kwadratura = 0.3460
+blad = 5.7870e-04
+>> format long
+>> [kwadratura,blad]=ZKT(@funkcja,0,1,12)
+kwadratura = 0.345994382891134
+blad = 5.787037037037037e-04
+>> 
+>> 
+>> octava = quad(@funkcja,0,1)
+octava = 0.346573590279973
+>> b_rz=abs(kwadratura-octava)
+b_rz = 5.792073888385429e-04
+>> diary off
