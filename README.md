@@ -20,6 +20,6 @@ Wartość dokładna (analityczna): 0.34657359027997
 - Błąd rzeczywisty: 5.792073888385429e-04
 - Wynik z funkcji quad (Octave): 0.346573590279973
 
-##Użycie
+## Użycie
 - W Octave/MATLAB:\
 `[kwadratura, blad] = ZKT(@funkcja, 0, 1, 12);`
